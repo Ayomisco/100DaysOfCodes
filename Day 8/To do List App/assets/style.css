@@ -1,0 +1,131 @@
+body {
+    text-align: center;
+    /*background-color: #3c6dc5;*/
+	background-color: #6495ed;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#add{
+    background-color: red;
+    border: 0;
+    color: white;
+    padding: 15px 5px 15px 5px;
+	/* padding-right:40px; */
+    cursor: pointer;
+	margin-top: 15px;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 0 15px 15px 0px;
+	width: 18%;
+	height: 56px;	
+}
+
+/* .add{
+    text-align: center;
+} */
+
+
+.remove {
+	
+	margin-top:13px;
+	/*margin-left:150px;*/
+	background-color: #f2f205;
+	float:right;
+	clear:both;
+	padding-right:20px;
+	border-radius:5px;
+
+
+	width:60px;
+	height:20px;
+	
+	border-style: none;
+	
+}
+
+
+#wrapper {
+	
+	width: 450px;
+	background-color: #000365;
+	/* margin-top: 120px;
+	margin-left: 295px; */
+	padding-bottom: 30px;
+	padding-left: 50px;
+	padding-top: 30px;
+	padding-right:65px;
+	border-radius:25px;
+    margin: 120px auto;
+    
+	
+}
+
+/*========== MEDIA QUERIES ==========*/
+/* For small devices, menu two columns */
+@media screen and (max-width: 500px){
+  .wrapper{
+    width: 100%;
+	padding: auto;
+	margin: 5px;
+  }
+
+  #add{
+    background-color: red;
+    border: 0;
+    color: white;
+    padding: 15px 20px;
+	/* padding-right:40px; */
+    cursor: pointer;
+	/* margin-top: 15px; */
+    text-align: center;
+    font-size: 18px;
+	
+	font-weight: bolder;
+    border-radius: 15px;
+	
+}
+
+
+#task-input{
+	font-size: 16px;
+    color: black;
+	width:100%;
+	height:30px;
+	margin: auto;
+    padding: 12px;
+    border-radius: 15px;
+}
+
+}
+
+
+/* Classes modified for large screen size */
+@media screen and (min-width: 968px){
+  /* body{
+    margin: 3rem 0;
+  } */
+}
+ul {
+	
+	list-style:none;
+	text-align:left;
+	line-height:35px;
+}
+
+#task-input {
+	font-size: 16px;
+    color: orangered;
+	width:74%;
+	height:30px;
+	margin: auto;
+    padding: 12px;
+    border-radius: 15px 0 0 15px;
+}
+
+#task-input::after{
+    border-radius: 13px;
+}
+h1{
+		margin-top:30px;
+}
