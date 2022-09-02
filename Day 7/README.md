@@ -1,11 +1,11 @@
 # 100DaysOfCode 💻
 
-Day 6 of code challenge 😍
+Day 7 of code challenge 😍
 
 # Overview
 
-Youtube Downloader Python Gui Based Video + Audio Downloader
+Web Base Interactive Quiz App
 
 # Requirement
 
-pip install pytube
+HTML, CSS and JavaScript

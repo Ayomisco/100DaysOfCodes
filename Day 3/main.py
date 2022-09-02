@@ -4,7 +4,7 @@ from tkinter.ttk import *
 from time import strftime
 
 root =Tk()
-root.title("Analog Time")
+root.title("Digital Time")
 
 
 def time():

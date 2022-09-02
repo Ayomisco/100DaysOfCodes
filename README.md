@@ -14,7 +14,14 @@ The 100 days of code challenge 😍
 | 6   | Interactive Quiz App   | A simple quiz website<br />on HTML and CSS                                | HTML, CSS and JAVASCRIPT | Done ✔ |
 | 7   | GUI Youtube Downloader | A simple YouTube Downloader. Copy the link and paste                      | Python TkinterJs         | Done ✔ |
 | 8   | To do List Web App     | A todo list website built with Javascript                                 | JavaScript               | Done ✔ |
-| 7   | GUI Youtube Download   | A simple YouTube Downloader. Copy the link and paste                      | Python Tkinter           | Done ✔ |
-| 8   | Recipe App             |                                                                           | React Hooks, Css3        | Done ✔ |
-| 9   | URL Shortener App      | URL Shortener App Using Vanilla JavaScript                                | JavaScript, CSS          | Done ✔ |
-| 10  | Notes App              | Notes App App Using Vanilla JavaScript                                    | JavaScript, CSS          | Done ✔ |
+| 9   | Word Counter           | A simple word counter using HTML, CSS, JavaScript                         | HTML CSS and JavaScript  | Done ✔ |
+| 10  | Cool Turtle Design     | Simple Animation                                                          | Python                   | Done ✔ |
+| 11  | Hello World Software   | A simple Hello World Software, Takes users name and display. GUI based    | Python Tkinter           | Done ✔ |
+| 12  | Todo App               | Todo app software with Python                                             | Python                   | Done ✔ |
+| 13  | Typing Master Clone    | The official Typing Master Clone                                          | Python, Tkinter          | Done ✔ |
+| 12  | Todo App               | Todo app software with Python                                             | Python                   | Done ✔ |
+| 12  | Todo App               | Todo app software with Python                                             | Python                   | Done ✔ |
+| 12  | Todo App               | Todo app software with Python                                             | Python                   | Done ✔ |
+| 12  | Todo App               | Todo app software with Python                                             | Python                   | Done ✔ |
+| 12  | Todo App               | Todo app software with Python                                             | Python                   | Done ✔ |
+| 12  | Todo App               | Todo app software with Python                                             | Python                   | Done ✔ |
