@@ -1,6 +1,6 @@
 # 100DaysOfCode 💻
 
-Day 9 of code challenge 😍
+Day 14 of code challenge 😍
 
 # Overview
 
@@ -8,7 +8,9 @@ Word Counter
 
 # Requirement
 
-HTML, CSS, JAVASCRIPT
+Python
+pathlib
+tkinter
 
 # Installation
 
